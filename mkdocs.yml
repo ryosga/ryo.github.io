@@ -1,0 +1,8 @@
+site_name: ^^
+site_url: 
+nav:
+    - Home: index.md
+    - About: about.md
+theme: material
+extra:
+  generator: false
